@@ -1,0 +1,4 @@
+id_director	nombre_apellido	anio_nacimiento	anio_debut	casado	calificacion_pelicula_alta_IMDB peliculas_dirigidas(id)
+1	Carlos Chicaiza	1997	2222	False	7.7	1
+2	pepe	1800	1880	True	8.8	3
+3	Rob zombie	1950	1980	True	7.3	2

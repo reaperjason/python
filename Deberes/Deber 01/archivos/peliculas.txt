@@ -1,0 +1,5 @@
+id_pelicula id_director	nombre_pelicula	fecha_estreno	genero	secuela calificacion_IMDB
+1	1	Mad Moxxi	2222	post-apocaliptico	False	7.7
+2	2	Moxxi	1880	terror	True	8.8
+3	2	Ozymandias	1980	accion	False	9.9
+4	4	Mad Max	2015	accion	False	8.1
